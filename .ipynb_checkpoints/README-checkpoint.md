@@ -2,4 +2,6 @@
 
 Contiene los ejercicios 9 y 10 de el libro de Probabilidad y Estadistica, de la materia con el mismo nombre impartida por el Dr. Francisco Javier Cuadros Romero, del Instituto Tecnológico Superior del Occidente del Estado de Hidalgo.
 
+Hechos por: Dilan Emir Angeles Martinez del 2° "B"
+
 Revisar notebooks adjuntos
